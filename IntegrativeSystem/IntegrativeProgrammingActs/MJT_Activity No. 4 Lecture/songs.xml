@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="CD.xsl"?>
+
+<Catalog>
+  <CD>
+    <title>Empire Burlesque</title>
+    <artist>Bob Dylan</artist>
+  </CD>
+  
+  <CD>
+    <title>Hide your heart</title>
+    <artist>Bonnie Tyler</artist>
+  </CD>
+
+  <CD>
+    <title>Greatest Hits</title>
+    <artist>Dolly Parton</artist>
+  </CD>
+
+  <CD>
+    <title>Still got the blues</title>
+    <artist>Gary Moore</artist>
+  </CD>
+  
+  <CD>
+    <title>Eros</title>
+    <artist>Eros Ramazzotti</artist>
+  </CD>
+
+  <CD>
+    <title>One night only</title>
+    <artist>Bee Gees</artist>
+  </CD>
+  
+  <CD>
+    <title>Sylvias Mother</title>
+    <artist>Dr.Hook</artist>
+  </CD>
+
+  <CD>
+    <title>Maggie May</title>
+    <artist>Rod Stewart</artist>
+  </CD>
+
+  <CD>
+    <title>Romanza</title>
+    <artist>Andrea Bocelli</artist>
+  </CD>
+  
+  <CD>
+    <title>When a man loves a woman</title>
+    <artist>Percy Sledge</artist>
+  </CD>
+
+  <CD>
+    <title>Black angel</title>
+    <artist>Savage Rose</artist>
+  </CD>
+  
+  <CD>
+    <title>1999 Grammy Nominees</title>
+    <artist>Many</artist>
+  </CD>
+
+  <CD>
+    <title>For the good times</title>
+    <artist>Kenny Rogers</artist>
+  </CD>
+
+  <CD>
+    <title>Big Willie style</title>
+    <artist>Will Smith</artist>
+  </CD>
+  
+  <CD>
+    <title>Tupelo Honey</title>
+    <artist>Van Morrison</artist>
+  </CD>
+
+  <CD>
+    <title>Soulsville</title>
+    <artist>Jorn Hoel</artist>
+  </CD>
+  
+  <CD>
+    <title>The very best of</title>
+    <artist>Cat Stevens</artist>
+  </CD>
+
+  <CD>
+    <title>Stop</title>
+    <artist>Sam Brown</artist>
+  </CD>
+  
+  <CD>
+    <title>Bridge Of Spies</title>
+    <artist>T`Pau</artist>
+  </CD>
+
+  <CD>
+    <title>Private Dancer</title>
+    <artist>Tina Turner</artist>
+  </CD>
+  
+  <CD>
+    <title>Midt om natten</title>
+    <artist>Kim Larsen</artist>
+  </CD>
+
+  <CD>
+    <title>Pavarotti Gala Concert</title>
+    <artist>Luciano Pavarotti</artist>
+  </CD>
+
+  <CD>
+    <title>The dock of the bay</title>
+    <artist>Otis Redding</artist>
+  </CD>
+  
+  <CD>
+    <title>Picture book</title>
+    <artist>Simply Red</artist>
+  </CD>
+
+  <CD>
+    <title>Red</title>
+    <artist>The Communards</artist>
+  </CD>
+
+  <CD>
+    <title>Unchain my heart</title>
+    <artist>Joe Cocker</artist>
+  </CD>
+
+</Catalog>
+
+
+

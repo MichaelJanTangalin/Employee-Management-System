@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="songs.xsl"?>
+
+<music>
+  <song>
+    <title>I'm Already Gone</title>
+    <artist>A Day To Remember</artist>
+    <album>Common Courtesy</album>
+    <year>2013</year>
+  </song>
+  
+  <song>
+    <title>I'm Low On Gas And You Need A Jacket</title>
+    <artist>Pierce The Veil</artist>
+    <album>Collide with the Sky</album>
+    <year>2012</year>
+  </song>
+
+  <song>
+    <title>21 Guns</title>
+    <artist>Green Day</artist>
+    <album>21st Century Breakdown</album>
+    <year>2009</year>
+  </song>
+
+  <song>
+    <title>If You Can't Hang</title>
+    <artist>Sleeping With Sirens</artist>
+    <album>Let's Cheers to This</album>
+    <year>2011</year>
+  </song>
+  
+  <song>
+    <title>Slow Dancing in the dark</title>
+    <artist>Joji</artist>
+    <album>Ballads 1</album>
+    <year>2018</year>
+  </song>
+</music>
+
+
+

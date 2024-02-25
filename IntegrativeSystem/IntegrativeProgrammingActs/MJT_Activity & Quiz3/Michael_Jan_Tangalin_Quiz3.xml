@@ -1,0 +1,408 @@
+<?xml-stylesheet type="text/css" href="style.css"?>
+<!-- Michael Jan R. Tangalin -->
+<!-- 3BSIT-2 -->
+
+<catalog>
+<!-- 1 -->
+<player>
+    <ID>1</ID>
+    <Team>Women</Team>
+    <Country>Canada</Country>
+    <NameF>Meghan</NameF>
+    <NameL>Agosta</NameL>
+    <Weight>148</Weight>
+    <Height>5'7</Height>
+    <DOB>12/02/1987</DOB>
+    <Hometown>Ruthven</Hometown>
+    <Prov>Ont.</Prov>
+    <Pos>Forward</Pos>
+    <Age>35</Age>
+    <HeightFt>5.58</HeightFt>
+    <Htln>67.00</Htln>
+    <BMI>23</BMI>
+</player>
+
+<!-- 2 -->
+
+<player>
+    <ID>2</ID>
+    <Team>Women</Team>
+    <Country>Canada</Country>
+    <NameF>Rebecca</NameF>
+    <NameL>Johnston</NameL>
+    <Weight>148</Weight>
+    <Height>5'9</Height>
+    <DOB>24/09/1989</DOB>
+    <Hometown>Sudbury</Hometown>
+    <Prov>Ont.</Prov>
+    <Pos>Forward</Pos>
+    <Age>32</Age>
+    <HeightFt>5.75</HeightFt>
+    <Htln>69.00</Htln>
+    <BMI>22</BMI>
+</player>
+
+<!-- 3 -->
+
+<player>
+    <ID>3</ID>
+    <Team>Women</Team>
+    <Country>Canada</Country>
+    <NameF>Laura</NameF>
+    <NameL>Stacey</NameL>
+    <Weight>156</Weight>
+    <Height>5'10</Height>
+    <DOB>05/05/1994</DOB>
+    <Hometown>Kleinburg</Hometown>
+    <Prov>Ont.</Prov>
+    <Pos>Forward</Pos>
+    <Age>27</Age>
+    <HeightFt>5.83</HeightFt>
+    <Htln>70.00</Htln>
+    <BMI>22</BMI>
+</player>
+
+<!-- 4 -->
+
+<player>
+    <ID>4</ID>
+    <Team>Men</Team>
+    <Country>Canada</Country>
+    <NameF>Eric</NameF>
+    <NameL>O'Dell</NameL>
+    <Weight>201</Weight>
+    <Height>6'1</Height>
+    <DOB>21/06/1990</DOB>
+    <Hometown>Ottawa</Hometown>
+    <Prov>Ont.</Prov>
+    <Pos>Forward</Pos>
+    <Age>31</Age>
+    <HeightFt>6.08</HeightFt>
+    <Htln>73.00</Htln>
+    <BMI>27</BMI>
+</player>
+
+<!-- 5 -->
+
+<player>
+    <ID>5</ID>
+    <Team>Men</Team>
+    <Country>Canada</Country>
+    <NameF>Maxim</NameF>
+    <NameL>Lapierre</NameL>
+    <Weight>216</Weight>
+    <Height>6'0</Height>
+    <DOB>29/03/1985</DOB>
+    <Hometown>Brossard</Hometown>
+    <Prov>Que.</Prov>
+    <Pos>Forward</Pos>
+    <Age>36</Age>
+    <HeightFt>6.00</HeightFt>
+    <Htln>72.00</Htln>
+    <BMI>29</BMI>
+</player>
+
+<!-- 6 -->
+
+<player>
+    <ID>6</ID>
+    <Team>Women</Team>
+    <Country>USA</Country>
+    <NameF>Cayla</NameF>
+    <NameL>Barnes</NameL>
+    <Weight>145</Weight>
+    <Height>5'1</Height>
+    <DOB>07/01/1999</DOB>
+    <Hometown>Eastvale</Hometown>
+    <Prov>Calif.</Prov>
+    <Pos>Defence</Pos>
+    <Age>23</Age>
+    <HeightFt>5.08</HeightFt>
+    <Htln>61.00</Htln>
+    <BMI>27</BMI>
+</player>
+
+<!-- 7 -->
+
+<player>
+    <ID>7</ID>
+    <Team>Women</Team>
+    <Country>USA</Country>
+    <NameF>Kacey</NameF>
+    <NameL>Bellamy</NameL>
+    <Weight>145</Weight>
+    <Height>5'7</Height>
+    <DOB>22/04/1987</DOB>
+    <Hometown>Westfield</Hometown>
+    <Prov>Mass.</Prov>
+    <Pos>Defence</Pos>
+    <Age>34</Age>
+    <HeightFt>5.58</HeightFt>
+    <Htln>67.00</Htln>
+    <BMI>23</BMI>
+</player>
+
+<!-- 8 -->
+
+<player>
+    <ID>8</ID>
+    <Team>Women</Team>
+    <Country>USA</Country>
+    <NameF>Hannah</NameF>
+    <NameL>Brandt</NameL>
+    <Weight>150</Weight>
+    <Height>5'6</Height>
+    <DOB>27/11/1993</DOB>
+    <Hometown>Vadnais Heights</Hometown>
+    <Prov>Minn.</Prov>
+    <Pos>Forward</Pos>
+    <Age>28</Age>
+    <HeightFt>5.50</HeightFt>
+    <Htln>66.00</Htln>
+    <BMI>24</BMI>
+</player>
+
+<!-- 9 -->
+
+<player>
+    <ID>9</ID>
+    <Team>Women</Team>
+    <Country>USA</Country>
+    <NameF>Dani</NameF>
+    <NameL>Cmeranesi</NameL>
+    <Weight>148</Weight>
+    <Height>5'5</Height>
+    <DOB>30/06/1995</DOB>
+    <Hometown>Plymouth</Hometown>
+    <Prov>Minn.</Prov>
+    <Pos>Forward</Pos>
+    <Age>26</Age>
+    <HeightFt>5.42</HeightFt>
+    <Htln>65.00</Htln>
+    <BMI>25</BMI>
+</player>
+
+<!-- 10 -->
+
+<player>
+    <ID>10</ID>
+    <Team>Women</Team>
+    <Country>UK</Country>
+    <NameF>Kendall</NameF>
+    <NameL>Coyne</NameL>
+    <Weight>123</Weight>
+    <Height>5'2</Height>
+    <DOB>25/05/1992</DOB>
+    <Hometown>Palos Heights</Hometown>
+    <Prov>III.</Prov>
+    <Pos>Forward</Pos>
+    <Age>29</Age>
+    <HeightFt>5.17</HeightFt>
+    <Htln>62.00</Htln>
+    <BMI>22</BMI>
+</player>
+
+<!-- 11 -->
+
+<player>
+    <ID>11</ID>
+    <Team>Women</Team>
+    <Country>UK</Country>
+    <NameF>Brianna</NameF>
+    <NameL>Decker</NameL>
+    <Weight>150</Weight>
+    <Height>5'4</Height>
+    <DOB>13/05/1991</DOB>
+    <Hometown>Dousman</Hometown>
+    <Prov>Wis.</Prov>
+    <Pos>Forward</Pos>
+    <Age>30</Age>
+    <HeightFt>5.33</HeightFt>
+    <Htln>64.00</Htln>
+    <BMI>26</BMI>
+</player>
+
+<!-- 12 -->
+
+<player>
+    <ID>12</ID>
+    <Team>Women</Team>
+    <Country>UK</Country>
+    <NameF>Meghan</NameF>
+    <NameL>Duggan</NameL>
+    <Weight>164</Weight>
+    <Height>5'10</Height>
+    <DOB>03/09/1987</DOB>
+    <Hometown>Danvers</Hometown>
+    <Prov>Mass.</Prov>
+    <Pos>Forward</Pos>
+    <Age>34</Age>
+    <HeightFt>5.83</HeightFt>
+    <Htln>70.00</Htln>
+    <BMI>24</BMI>
+</player>
+
+<!-- 13 -->
+
+<player>
+    <ID>13</ID>
+    <Team>Men</Team>
+    <Country>UK</Country>
+    <NameF>Kali</NameF>
+    <NameL>Flanagan</NameL>
+    <Weight>142</Weight>
+    <Height>5'4</Height>
+    <DOB>19/09/1995</DOB>
+    <Hometown>Burlington</Hometown>
+    <Prov>Mass.</Prov>
+    <Pos>Defence</Pos>
+    <Age>26</Age>
+    <HeightFt>5.33</HeightFt>
+    <Htln>64.00</Htln>
+    <BMI>24</BMI>
+</player>
+
+<!-- 14 -->
+
+<player>
+    <ID>14</ID>
+    <Team>Men</Team>
+    <Country>UK</Country>
+    <NameF>Jackson</NameF>
+    <NameL>Hensley</NameL>
+    <Weight>155</Weight>
+    <Height>5'7</Height>
+    <DOB>23/06/1994</DOB>
+    <Hometown>Lakewood</Hometown>
+    <Prov>Colo.</Prov>
+    <Pos>Goalie</Pos>
+    <Age>27</Age>
+    <HeightFt>5.58</HeightFt>
+    <Htln>67.00</Htln>
+    <BMI>24</BMI>
+</player>
+
+<!-- 15 -->
+
+<player>
+    <ID>15</ID>
+    <Team>Men</Team>
+    <Country>UK</Country>
+    <NameF>Smith</NameF>
+    <NameL>Keller</NameL>
+    <Weight>160</Weight>
+    <Height>5'11</Height>
+    <DOB>01/05/1996</DOB>
+    <Hometown>Farmington</Hometown>
+    <Prov>Mich.</Prov>
+    <Pos>Defence</Pos>
+    <Age>25</Age>
+    <HeightFt>5.92</HeightFt>
+    <Htln>71.00</Htln>
+    <BMI>22</BMI>
+</player>
+
+<!-- 16 -->
+
+<player>
+    <ID>16</ID>
+    <Team>Men</Team>
+    <Country>UK</Country>
+    <NameF>Kevin</NameF>
+    <NameL>Kessel</NameL>
+    <Weight>136</Weight>
+    <Height>5'5</Height>
+    <DOB>28/08/1991</DOB>
+    <Hometown>Madison</Hometown>
+    <Prov>Wis.</Prov>
+    <Pos>Forward</Pos>
+    <Age>30</Age>
+    <HeightFt>5.42</HeightFt>
+    <Htln>65.00</Htln>
+    <BMI>23</BMI>
+</player>
+
+<!-- 17 -->
+
+<player>
+    <ID>17</ID>
+    <Team>Men</Team>
+    <Country>UK</Country>
+    <NameF>James</NameF>
+    <NameL>Knight</NameL>
+    <Weight>175</Weight>
+    <Height>5'11</Height>
+    <DOB>12/07/1989</DOB>
+    <Hometown>Sun Valley</Hometown>
+    <Prov>Idaho.</Prov>
+    <Pos>Forward</Pos>
+    <Age>32</Age>
+    <HeightFt>5.92</HeightFt>
+    <Htln>71.00</Htln>
+    <BMI>24</BMI>
+</player>
+
+<!-- 18 -->
+
+<player>
+    <ID>18</ID>
+    <Team>Men</Team>
+    <Country>UK</Country>
+    <NameF>Cris</NameF>
+    <NameL>Lamoureux-Davidson</NameL>
+    <Weight>150</Weight>
+    <Height>5'6</Height>
+    <DOB>03/07/1989</DOB>
+    <Hometown>Grand Forks</Hometown>
+    <Prov>N.D.</Prov>
+    <Pos>Forward</Pos>
+    <Age>32</Age>
+    <HeightFt>5.50</HeightFt>
+    <Htln>66.00</Htln>
+    <BMI>24</BMI>
+</player>
+
+<!-- 19 -->
+
+<player>
+    <ID>19</ID>
+    <Team>Men</Team>
+    <Country>UK</Country>
+    <NameF>Ben</NameF>
+    <NameL>Lamoureux-Morando</NameL>
+    <Weight>150</Weight>
+    <Height>5'6</Height>
+    <DOB>03/07/1989</DOB>
+    <Hometown>Grand Forks</Hometown>
+    <Prov>N.D.</Prov>
+    <Pos>Forward</Pos>
+    <Age>32</Age>
+    <HeightFt>5.50</HeightFt>
+    <Htln>66.00</Htln>
+    <BMI>24</BMI>
+</player>
+
+<!-- 20 -->
+
+<player>
+    <ID>20</ID>
+    <Team>Men</Team>
+    <Country>UK</Country>
+    <NameF>Jayson</NameF>
+    <NameL>Marvin</NameL>
+    <Weight>159</Weight>
+    <Height>5'8</Height>
+    <DOB>07/03/1987</DOB>
+    <Hometown>Warroad</Hometown>
+    <Prov>Minn.</Prov>
+    <Pos>Forward</Pos>
+    <Age>35</Age>
+    <HeightFt>5.67</HeightFt>
+    <Htln>68.00</Htln>
+    <BMI>24</BMI>
+</player>
+
+
+
+
+</catalog>
